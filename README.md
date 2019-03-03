@@ -1,2 +1,2 @@
 # letterStreamExp
-字母快速呈现的实验，基于psychtoolbox
+字母快速呈现的实验，基于psychtoolbox，使用时请新建data和subInfo文件夹
